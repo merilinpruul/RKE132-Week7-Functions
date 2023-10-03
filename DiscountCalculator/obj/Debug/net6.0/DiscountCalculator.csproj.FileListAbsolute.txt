@@ -1,0 +1,14 @@
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.exe
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.deps.json
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.runtimeconfig.json
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.dll
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.pdb
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.AssemblyInfo.cs
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.dll
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\refint\DiscountCalculator.dll
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.pdb
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.genruntimeconfig.cache
+C:\Users\meril\source\repos\Week7Functions\DiscountCalculator\obj\Debug\net6.0\ref\DiscountCalculator.dll
